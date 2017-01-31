@@ -1,0 +1,14 @@
+Package: yanghao
+Type: Package
+Title: A packages designed by Yang Hao
+Version: 0.1.0
+Authors@R:
+    person("Hao", "Yang", email = "eric_yang09@126.com", role = c("aut", "cre"))
+
+Description:
+    the first packages built by Yang Hao, do your best to develop one packages;
+Imports:
+    dplyr (>= 0.0.1)
+
+License: MIT
+LazyData: TRUE
