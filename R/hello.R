@@ -16,3 +16,8 @@
 hello <- function() {
   print("Hello, world!")
 }
+
+
+test <- function(x) {
+  return(x^2)
+  }
